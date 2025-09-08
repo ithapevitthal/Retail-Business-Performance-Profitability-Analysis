@@ -36,7 +36,8 @@ The final output helps retailers **optimize product strategies, promotions, and 
 ├── retail.ipynb # Python exploratory analysis
 ├── visualization/
 │ ├── Retail_Sales_Performance.pbix # Power BI dashboard
-│ └── Workspace_1.pdf # Zoho Analytics report
+│ └── Workspace_1.pdf # Zoho Analytics repor
+| |___ https://analytics.zoho.in/workspace/462727000000008967 #link of zoho visuvalizetion
 └── report/
 └── Retail_Project_FinalReport.pdf # Final 2-page project report
 
